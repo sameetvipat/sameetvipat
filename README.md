@@ -13,6 +13,6 @@ I'm actively seeking opportunities to collaborate on open-source projects to hel
 ## Contact Me
 
 You can connect with me on 
-[Twitter](https://twitter.com/sameetvipat) 
+[Twitter](https://twitter.com/sameetvipat) or
 [LinkedIn](https://www.linkedin.com/in/sameetvipat)
 if you're interested in collaborating or just want to have a chat.

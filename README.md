@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 I'm a tech enthusiast with a passion for movies, TV shows, games, and technology.  
 I’m passionate about data science and increasingly drawn to software and web development.
-I actively seek out open-source collaboration opportunities to contribute to meaningful projects and grow within the tech community. 
+I actively seek out open-source collaboration opportunities to contribute to meaningful projects and grow within the tech community.
 Continuously learning and exploring new technologies, I enjoy applying data-driven solutions to real-world challenges.
 
 ## Interests

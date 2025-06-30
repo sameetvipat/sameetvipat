@@ -2,9 +2,9 @@
 # Hello, I'm Sameet! 👋
 
 I'm Sameet, a tech enthusiast with a passion for movies, TV shows, games, and technology.  
-I have a strong interest in **data science** and a growing curiosity about **software and web development**.  
-I'm actively seeking opportunities to collaborate on open-source projects to help improve the software ecosystem.  
-Always eager to learn, explore new technologies, and apply data-driven solutions.
+I’m passionate about data science and increasingly drawn to software and web development.
+I actively seek out open-source collaboration opportunities to contribute to meaningful projects and grow within the tech community. 
+Continuously learning and exploring new technologies, I enjoy applying data-driven solutions to real-world challenges.
 
 ## Interests
 
@@ -14,10 +14,9 @@ Always eager to learn, explore new technologies, and apply data-driven solutions
 - 🍿 Watching a wide range of movies and TV shows  
 - 🎮 Playing immersive single-player games  
 
-
 ## Contact Me
 
 You can connect with me on 
 [Twitter](https://twitter.com/sameetvipat) or
-[LinkedIn](https://www.linkedin.com/in/sameetvipat)
+[LinkedIn](https://www.linkedin.com/in/sameetvipat) 
 if you're interested in collaborating or just want to have a chat.
